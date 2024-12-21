@@ -1,4 +1,7 @@
-## Hi there 👋
+## Привет, меня зовут Юлия 👋
+
+<img src="https://raw.githubusercontent.com/Yuliya-Sycheva/Yuliya-Sycheva/73e8b56615496f2aeb34c8895e699c07c3342d87/android(3).png" width=100% height=100%>
+
 
 <!--
 **Yuliya-Sycheva/Yuliya-Sycheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
